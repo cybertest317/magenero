@@ -24,6 +24,6 @@ I'm Dark nero Whatsapp user bot
 🔄Version: 0.9
 Helo There I am online 🌐
 
-ᴄʏʙᴇʀ ʏᴀᴋᴜꜱʜᴀ•ᴅᴀʀᴋ ɴᴇʀᴏ-ᴍᴅ` : process.env.ALIVE,
+Dark SamuZa Created By Pasindu Sehan` : process.env.ALIVE,
 LOGO: process.env.LOGO === undefined ? `https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg` : process.env.LOGO
 };
