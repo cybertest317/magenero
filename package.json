@@ -4,7 +4,7 @@
 "description": "Dark Nero Whatsapp User Bot",
 "main": "index.js",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name samuza",
+"start": "pm2 start index.js --deep-monitoring --attach --name nero",
 "stop": "pm2 stop nero",
 "restart": "pm2 restart nero"
 }, 
